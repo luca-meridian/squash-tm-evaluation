@@ -7,11 +7,11 @@ An evaluation of open-source test management.
 Squash TM provides requirements management,
 version history and requirements-to-test traceability.
 
-![Requirements Management](screenshots/02-requirements-management.png)
+![Requirements Management](screenshots/01-requirements-overview.pdf)
 
 ## 2. Manual Test Case Management
 
 Test cases support prerequisites, test steps,
 expected results and requirements associations.
 
-![Manual Test Case](screenshots/03-manual-test-case.png)
+![Manual Test Case](screenshots/02-1-manual-test-case.pdf)
